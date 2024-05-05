@@ -31,3 +31,10 @@ Hi there! I'm Piotr - a Business Analytics MSc graduate with a strong passion fo
 - Engaged in societies such as CEMS Club Warsaw and SGH Business Club.
 - Voluntary work including organizing charity events and helping war refugees.
 - Interests in innovative technologies, foreign affairs, and outdoor sports like climbing and windsurfing.
+
+## Projects
+
+- <a href="https://github.com/piotrpiwnik/Predictive-Analytics-in-Business/tree/main">Start-up funding prediction in Python based on the crunchbase data set.</a>
+- <a href="https://github.com/piotrpiwnik/Data_Management_and_Ethics">Analysis and visualization of crimes committed in Chicago in SQL, based on the anonymized Chicago PD data set.</a>
+- <a href="https://github.com/piotrpiwnik/Chatbot-Overflow---Piotr-Piwnik">Master thesis: "Chatbot Overflow - Assessing the Impact of Chat GPT Introduction on Q&A Platforms".</a>
+

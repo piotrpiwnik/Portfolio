@@ -52,7 +52,7 @@ Hello there! I'm Piotr - a Business Analytics MSc graduate with a strong passion
 
 ## Projects
 
-- <a href="https://github.com/piotrpiwnik/Predictive-Analytics-in-Business/tree/main">Start-up funding prediction in Python based on the crunchbase data set.</a>
-- <a href="https://github.com/piotrpiwnik/Data_Management_and_Ethics">Analysis and visualization of crimes committed in Chicago in SQL, based on the anonymized Chicago PD data set.</a>
-- <a href="https://github.com/piotrpiwnik/Chatbot-Overflow---Piotr-Piwnik">Master thesis: "Chatbot Overflow - Assessing the Impact of Chat GPT Introduction on Q&A Platforms".</a>
+- <a href="https://github.com/piotrpiwnik/Start-up-funding-prediction"> Start-up funding prediction based on the Crunchbase data set from the period 1990 - 2015 using Python. </a>
+- <a href="https://github.com/piotrpiwnik/Data_Management_and_Ethics"> Analysis of crimes committed in Chicago, based on the SQL queries from the anonymized Chicago PD data set .</a>
+- <a href="https://github.com/piotrpiwnik/Chatbot-Overflow---Piotr-Piwnik"> Master thesis and NLP analysis in Python: "Chatbot Overflow - Assessing the Impact of Chat GPT Introduction on Q&A Platforms".</a>
 

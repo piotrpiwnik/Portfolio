@@ -14,7 +14,7 @@ You can reach me at:
 - **MSc in Business Analytics and Management**, Rotterdam School of Management, Erasmus University (GPA 8.7/10.0, Cum Laude)
   - Thesis: "Chatbot Overflow - Assessing the Impact of Chat GPT Introduction on Q&A Platforms" (graded 8.5/10)
   - Exchange Semester at the National University of Singapore (2023/2024)
-  - Relevant Coursework: Advanced Statistics and Programming, Machine Learning, Experimentation and Causal Inference, Data Management, Marketing Models
+  - Relevant Coursework: Advanced Statistics and Programming, Machine Learning, Experimentation and Causal Inference, Data Management and Ethics, Marketing Models, Financial Modelling.
   - University Involvements: Research Assistant, Teaching Assistant, and Student Ambassador
 
 - **BSc in Quantitative Methods in Economics and Information Systems**, SGH Warsaw School of Economics (GPA 4.24/5.0)

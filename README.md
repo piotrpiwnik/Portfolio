@@ -5,7 +5,7 @@ Hello there!
 
 I'm Piotr - a Business Analytics MSc graduate with a strong passion for data analytics, machine learning, and data management. With a blend of analytical skills and business acumen, I am dedicated to transforming data into knowledge, and technical requirements into actionable insights. My journey has been marked by continuous learning and embracing challenges across diverse sectors. I have included my resume below and also some of my data science projects. 
 
-You can reach me at:
+You can reach out to me via:
 - Phone: +48 792 904 551
 - Email: piotrpiwnik@gmail.com
 - [LinkedIn](http://www.linkedin.com/in/piotr-piwnik-509b59171)

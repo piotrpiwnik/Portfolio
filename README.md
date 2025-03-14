@@ -13,7 +13,6 @@ You can reach out to me via:
 - Email: piotrpiwnik@gmail.com
 - [LinkedIn](http://www.linkedin.com/in/piotr-piwnik-509b59171)
 
-#**Resume**
 
 ## Work Experience
 

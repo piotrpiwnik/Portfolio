@@ -3,26 +3,25 @@
 ## Introduction
 Hello there!
 
-I'm Piotr - a Business Analytics MSc graduate with a strong passion for data analytics, machine learning, and data management. With a blend of analytical skills and business acumen, I am dedicated to transforming data into knowledge, and technical requirements into actionable insights. My journey has been marked by continuous learning and embracing challenges across diverse sectors. I have included my resume below and also some of my data science projects. 
+I'm Piotr and I love to transform data into insights to make life easier and more interesting. My key professional characteristics are as follows: 
+
+
+Innovator with an analytical mindset, entrepreneurial spirit and experience in collaborating with people from different backgrounds. Skilled in breaking down strategic problems into action plans and translating advanced analytics into actionable insights. Seeking a role where I can challenge status quo to unlock technology-driven business opportunities.
 
 You can reach out to me via:
 - Phone: +48 792 904 551
 - Email: piotrpiwnik@gmail.com
 - [LinkedIn](http://www.linkedin.com/in/piotr-piwnik-509b59171)
 
-## Education
-- **MSc in Business Analytics and Management**, Rotterdam School of Management, Erasmus University (GPA 8.7/10.0, Cum Laude)
-  - Thesis: "Chatbot Overflow - Assessing the Impact of Chat GPT Introduction on Q&A Platforms" (graded 8.5/10)
-  - Exchange Semester at the National University of Singapore (2023/2024)
-  - Relevant Coursework: Advanced Statistics and Programming, Machine Learning, Experimentation and Causal Inference, Data Management and Ethics, Marketing Models, Financial Modelling.
-  - University Involvements: Research Assistant, Teaching Assistant, and Student Ambassador
-
-- **BSc in Quantitative Methods in Economics and Information Systems**, SGH Warsaw School of Economics (GPA 4.24/5.0)
-  - Thesis: "Determinants of Foreign Direct Investment Inflow. A Case Study – Poland" (graded 5.0/5.0)
-  - Relevant Coursework: Statistics, Econometrics, Finance, Accounting, Financial and Insurance Mathematics, Financial Risk Modelling
-  - University Involvements: Student Ambassador of Procter & Gamble, Member of the Project Assessment Team of Students’ Council
+#**Resume**
 
 ## Work Experience
+
+ **Data Analyst/Consultant**, ING | Digital & Customer Analytics, Amsterdam, The Netherlands (Sep 2024 – Present)  
+  - Automated essential reports of €10bn+ portfolio in cooperation with the department leadership, saving 100+ hours of manual work  
+  - Enhanced data-driven decision-making and sustainable growth by designing product dashboards for KPI reporting  
+  - Organised workshops for stakeholders across the organisation to increase data fluency and raise data privacy awareness  
+
 - **Technology Strategy Analyst**, Accenture (Feb 2022 – Jul 2022)
   - Prepared a current state assessment and comprehensive AI use cases portfolio to develop a sector AI strategy for a client from a GCC country
   - Co-organized workshops for 20+ stakeholders from the public and private sectors to discuss the AI solutions deployment strategy
@@ -41,10 +40,24 @@ You can reach out to me via:
 - **Project Support**, Boston Consulting Group (Nov 2019 – Dec 2019)
   - Worked with BCG consultants on a retail and a banking project - prepared reports and presentations; provided mystery customer insights
 
+
+## Education
+- **MSc in Business Analytics and Management**, Rotterdam School of Management, Erasmus University (GPA 8.7/10.0, Cum Laude)
+  - Thesis: "Chatbot Overflow - Assessing the Impact of Chat GPT Introduction on Q&A Platforms" (graded 8.5/10)
+  - Exchange Semester at the National University of Singapore (2023/2024)
+  - Relevant Coursework: Advanced Statistics and Programming, Machine Learning, Experimentation and Causal Inference, Data Management and Ethics, Marketing Models, Financial Modelling.
+  - University Involvements: Research Assistant, Teaching Assistant, and Student Ambassador
+
+- **BSc in Quantitative Methods in Economics and Information Systems**, SGH Warsaw School of Economics (GPA 4.24/5.0)
+  - Thesis: "Determinants of Foreign Direct Investment Inflow. A Case Study – Poland" (graded 5.0/5.0)
+  - Relevant Coursework: Statistics, Econometrics, Finance, Accounting, Financial and Insurance Mathematics, Financial Risk Modelling
+  - University Involvements: Student Ambassador of Procter & Gamble, Member of the Project Assessment Team of Students’ Council
+
+
 ## Skills and Certificates
 - **Business Skills:** Project management in cross-functional projects, stakeholder management and effective communication, strategic thinking, organising meetings and workshops, delivering C-suite presentations, public speaking, familiarity with Agile and Waterfall methodologies.
-- **Technical Skills:** Conducting big data analysis utilizing Machine Learning techniques (including Natural Language Processing) in Python and R. Creating compelling data visualizations in Python, R, Power BI, and Tableau. Knowledge of relational databases and proficiency in SQL. Experience in using version control (Git, GitHub), using GAI to streamline processes, and creating advanced analysis in MS Excel with VBA.
-- **Language Skills:** English C1/C2 (IELTS & CEFR certificates), German B2 (CEFR certificate), Polish – mother tongue.
+- **Technical Skills:** Conducting big data analysis utilizing Machine Learning techniques (including Natural Language Processing) in Python and R. Creating compelling data visualizations in Python, R, Power BI, and Tableau. Knowledge of relational databases and advanced proficiency in SQL. Experience in using version control (Git, GitHub), using GAI to streamline processes, and creating advanced analysis in MS Excel with VBA.
+- **Language Skills:** English C1/C2 (IELTS & CEFR certificates), German B2 (CEFR certificate), Dutch A1, Polish – mother tongue.
 - **Certificates & Business Contests:** Northwestern University 101: Leading with Analytics and AI, EY Financial Challenger 2020 – semi-finals.
 
 ## Extracurricular Activities

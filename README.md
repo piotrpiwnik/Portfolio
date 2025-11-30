@@ -1,6 +1,4 @@
-# Piotr Piwnik
-
-## Introduction
+# Introduction
 Hello there!
 
 I'm Piotr and I love to transform data into insights to make life easier and more interesting. My key professional characteristics are as follows: 
@@ -8,11 +6,19 @@ I'm Piotr and I love to transform data into insights to make life easier and mor
 
 Innovator with an analytical mindset, entrepreneurial spirit and experience in collaborating with people from different backgrounds. Skilled in breaking down strategic problems into action plans and translating advanced analytics into actionable insights. Aiming to further develop my skills in data science to create business impact with emerging technologies.
 
+## Projects
+- <a href="https://github.com/piotrpiwnik/Chatbot-Overflow---Piotr-Piwnik"> Master thesis and NLP analysis in Python: "Chatbot Overflow - Assessing the Impact of Chat GPT Introduction on Q&A Platforms".</a>
+- <a href="https://github.com/piotrpiwnik/Start-up-funding-prediction"> Start-up funding prediction based on the Crunchbase data set from 1990 - 2015 using Python. </a>
+- <a href="https://github.com/piotrpiwnik/Data_Management_and_Ethics"> Analysis of crimes committed in Chicago, based on the SQL queries from the anonymised Chicago PD data set .</a>
+
+## Contact
+
 You can reach out to me via:
 - Phone: +48 792 904 551
 - Email: piotrpiwnik@gmail.com
 - [LinkedIn](http://www.linkedin.com/in/piotr-piwnik-509b59171)
 
+# Resume
 
 ## Work Experience
 
@@ -38,6 +44,7 @@ You can reach out to me via:
     
 - **Project Support**, Boston Consulting Group (Nov 2019 – Dec 2019)
   - Worked with BCG consultants on a retail and a banking project - prepared reports and presentations; provided mystery customer insights
+
 
 
 ## Education
@@ -76,11 +83,5 @@ Organising charity events for children in need, helping war refugees in Warsaw, 
 
 ## Interests
 - Innovative technologies, foreign affairs (Middle East, Africa, Asia), non-fiction books and crime novels, road cycling, windsurfing
-
-
-## Projects
-- <a href="https://github.com/piotrpiwnik/Chatbot-Overflow---Piotr-Piwnik"> Master thesis and NLP analysis in Python: "Chatbot Overflow - Assessing the Impact of Chat GPT Introduction on Q&A Platforms".</a>
-- <a href="https://github.com/piotrpiwnik/Start-up-funding-prediction"> Start-up funding prediction based on the Crunchbase data set from 1990 - 2015 using Python. </a>
-- <a href="https://github.com/piotrpiwnik/Data_Management_and_Ethics"> Analysis of crimes committed in Chicago, based on the SQL queries from the anonymised Chicago PD data set .</a>
 
 

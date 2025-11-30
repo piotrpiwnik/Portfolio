@@ -16,7 +16,7 @@ You can reach out to me via:
 
 ## Work Experience
 
- **Data Analyst/Consultant**, ING | Digital & Customer Analytics, Amsterdam, The Netherlands (Sep 2024 – Present)  
+- **Data Analyst**, ING | Digital & Customer Analytics, Amsterdam, The Netherlands (Sep 2024 – Present)  
   - Built scalable reporting solutions using Power BI to deliver key insights on a €10bn+ portfolio, saving 100+ hours of manual work
   - Developed a prototype Gen AI chatbot for fostering financial health of the Dutch households in a cross-company collaboration
   - Enhanced data fluency among decision-makers and identified new cross-functional use cases to advance GenAI adoption in lending
@@ -55,10 +55,15 @@ You can reach out to me via:
 
 ## Skills and Certificates
 **Programming languages:** Python, SQL, R
+
 **Big Data and Machine Learning:** Data science pipeline (cleansing, wrangling, visualisation, modelling, interpretation). Data analysis (Pandas, NumPy). Classification, regression, clustering and NLP (Scikit-learn, SciPy, NLTK). Basics of agent development with LangChain
+
 **Other technologies:** Version control (Git), BigQuery, fundamentals of GCP and Azure, data visualisation and report development in Power BI
+
 **Business Skills:** Stakeholder management and effective communication, project management in cross-functional teams, delivering C-suite presentations, effective data storytelling, strategic thinking, public speaking, working in Agile and Waterfall methodologies
+
 **Certificates and Trainings:** LLM Ops on GCP training by Xebia, Northwestern University 101: Leading with Analytics and AI Certificate
+
 **Language Skills:** English - C1/C2 (IELTS and CEFR certificates), German - B2 (CEFR certificate), Dutch - A2, Polish – mother tongue
 
 ## Extracurricular Activities
